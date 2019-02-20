@@ -1,2 +1,2 @@
 # StepToLife
-My project is mainly fouces on GPS, Map, Steps and places of history.
+My project is mainly corelocation and geofancing. Is smiliar to Google map, sweatcoin. 
